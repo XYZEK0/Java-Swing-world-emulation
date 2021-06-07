@@ -1,0 +1,17 @@
+2
+Lis 1 11 6 3
+Czlowiek 1 4 5 3
+Wilk 1 10 6 9
+Antylopa 1 7 14 4
+CyberOwca 1 6 3 11
+Owca 1 5 5 4
+CyberOwca 1 6 2 11
+Zolw 1 7 15 2
+Barszcz 1 17 17 10
+Barszcz 1 7 7 10
+Trawa 1 18 8 0
+Barszcz 1 10 10 10
+Mlecz 1 18 2 0
+Guarana 1 13 5 0
+WilczaJagoda 1 6 16 99
+Mlecz 1 11 17 0
